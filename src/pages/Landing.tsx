@@ -6,6 +6,7 @@ const Landing = () => {
     <div className="min-h-screen bg-white">
       <Hero />
       <HowItWorks />
+      
     </div>
   );
 };
